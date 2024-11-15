@@ -9,7 +9,7 @@ const  Header =()=>{
             <NavBar>
                 <span><a href="#Home">Home</a></span>
                 <span><a href="#About">About</a></span>
-                <span><a href="#Skills">Skills</a></span>
+                <span><a href="#Stack">Stack</a></span>
                 <span><a href="#Projects">Projects</a></span>
                 <button><a href="#Contact Me">Contact Me</a></button>
             </NavBar>
